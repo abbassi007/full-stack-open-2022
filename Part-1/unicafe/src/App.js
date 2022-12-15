@@ -15,6 +15,7 @@ const StatisticLine = (props) => {
 
   )
 }
+
 const Statistics = (props) => {
   const good = props.good
   const netural = props.netural
